@@ -1,0 +1,36 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260818-185530-xwr4",
+      "title": "Tybalt Oakenshield",
+      "commanders": [
+        "Tybalt Oakenshield"
+      ],
+      "guild": null,
+      "dateStart": "2026-08-18T17:55:30.000Z",
+      "dateEnd": "2026-08-18T18:50:03.000Z",
+      "dateLabel": "18/08/2026, 18:55:30 - 18/08/2026, 19:50:03",
+      "url": "https://BattlebugxD.github.io/number1/?report=20260818-185530-xwr4",
+      "summary": {
+        "borderlandsPct": 0.38095238095238093,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 30
+      }
+    }
+  ]
+}
