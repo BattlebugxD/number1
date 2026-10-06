@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261003-123015-akq4",
+      "title": "Enemy Thorn",
+      "commanders": [
+        "Enemy Thorn"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-03T11:30:15.000Z",
+      "dateEnd": "2026-10-03T12:01:16.884Z",
+      "dateLabel": "03/10/2026, 12:30:15 - 03/10/2026, 13:01:16",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261003-123015-akq4",
+      "summary": {
+        "borderlandsPct": 0.4578313253012048,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261004-122747-oimt",
       "title": "Aethelbeord",
       "commanders": [
