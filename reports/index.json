@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261005-183153-cy6v",
+      "title": "Aethelbeord",
+      "commanders": [
+        "Aethelbeord"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-10-05T17:31:53.000Z",
+      "dateEnd": "2026-10-05T17:50:01.218Z",
+      "dateLabel": "05/10/2026, 18:31:53 - 05/10/2026, 18:50:01",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261005-183153-cy6v",
+      "summary": {
+        "borderlandsPct": 0.4146341463414634,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 48,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260818-185530-xwr4",
       "title": "Tybalt Oakenshield",
       "commanders": [
