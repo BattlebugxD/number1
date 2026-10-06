@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261004-123304-67d8",
+      "title": "Aethelbeord",
+      "commanders": [
+        "Aethelbeord"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-10-04T11:33:04.000Z",
+      "dateEnd": "2026-10-04T12:13:25.541Z",
+      "dateLabel": "04/10/2026, 12:33:04 - 04/10/2026, 13:13:25",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261004-123304-67d8",
+      "summary": {
+        "borderlandsPct": 0.625,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20261003-132216-st4x",
       "title": "Aethelbeord",
       "commanders": [
