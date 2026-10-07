@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261007-193205-qlso",
+      "title": "Battleplug",
+      "commanders": [
+        "Battleplug"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-10-07T18:32:05.000Z",
+      "dateEnd": "2026-10-07T20:19:18.281Z",
+      "dateLabel": "07/10/2026, 19:32:05 - 07/10/2026, 21:19:18",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261007-193205-qlso",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20261007-191914-xf0e",
       "title": "Battleplug, Sarah Carigan",
       "commanders": [
