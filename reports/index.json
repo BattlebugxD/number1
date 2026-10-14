@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261014-192946-q40b",
+      "title": "Aethelbeord",
+      "commanders": [
+        "Aethelbeord"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-10-14T18:29:46.000Z",
+      "dateEnd": "2026-10-14T19:12:59.873Z",
+      "dateLabel": "14/10/2026, 19:29:46 - 14/10/2026, 20:12:59",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261014-192946-q40b",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 26,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20261007-193205-qlso",
       "title": "Battleplug",
       "commanders": [
