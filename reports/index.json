@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261017-153722-57d3",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-10-17T14:37:22.000Z",
+      "dateEnd": "2026-10-17T15:33:30.607Z",
+      "dateLabel": "17/10/2026, 15:37:22 - 17/10/2026, 16:33:30",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261017-153722-57d3",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20261014-192946-q40b",
       "title": "Aethelbeord",
       "commanders": [
