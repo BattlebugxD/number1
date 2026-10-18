@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261018-200528-84da",
+      "title": "Draíochta Rí",
+      "commanders": [
+        "Draíochta Rí"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-10-18T19:05:28.000Z",
+      "dateEnd": "2026-10-18T19:36:06.510Z",
+      "dateLabel": "18/10/2026, 20:05:28 - 18/10/2026, 20:36:06",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261018-200528-84da",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 54,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20261017-153722-57d3",
       "title": "Präk",
       "commanders": [
