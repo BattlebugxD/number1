@@ -1,8 +1,42 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.9"
+  },
   "entries": [
+    {
+      "id": "20261021-185951-au9k",
+      "title": "Uzurpátor",
+      "commanders": [
+        "Uzurpátor"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-10-21T17:59:51.000Z",
+      "dateEnd": "2026-10-21T20:27:14.904Z",
+      "dateLabel": "21/10/2026, 18:59:51 - 21/10/2026, 21:27:14",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261021-185951-au9k",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 64,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 18
+      }
+    },
     {
       "id": "20261018-200528-84da",
       "title": "Draíochta Rí",
