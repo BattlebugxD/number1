@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261024-133252-jcaz",
+      "title": "Enemy Thorn",
+      "commanders": [
+        "Enemy Thorn"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-24T12:32:52.000Z",
+      "dateEnd": "2026-10-24T13:58:14.585Z",
+      "dateLabel": "24/10/2026, 13:32:52 - 24/10/2026, 14:58:14",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261024-133252-jcaz",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261023-195304-xa54",
       "title": "Uzurpátor",
       "commanders": [
