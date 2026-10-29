@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261029-183824-8hgf",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-10-29T18:38:24.000Z",
+      "dateEnd": "2026-10-29T20:26:53.630Z",
+      "dateLabel": "29/10/2026, 18:38:24 - 29/10/2026, 20:26:53",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261029-183824-8hgf",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261029-183824-kgpg",
       "title": "Flowsn",
       "commanders": [
