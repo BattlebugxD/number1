@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261029-210719-5iuq",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "7ADEF17B-70E8-EE11-8467-122223FBD123",
+        "name": "Sanguis Vindictae",
+        "tag": "sV"
+      },
+      "dateStart": "2026-10-29T21:07:19.000Z",
+      "dateEnd": "2026-10-29T22:36:21.421Z",
+      "dateLabel": "29/10/2026, 21:07:19 - 29/10/2026, 22:36:21",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261029-210719-5iuq",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261029-183824-8hgf",
       "title": "Flowsn",
       "commanders": [
