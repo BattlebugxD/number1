@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261031-182111-rasy",
+      "title": "Ijmpo",
+      "commanders": [
+        "Ijmpo"
+      ],
+      "guild": {
+        "id": "B65DAD56-25FB-EE11-BA1F-06F2763BE7D0",
+        "name": "Ruthless Division",
+        "tag": "RD"
+      },
+      "dateStart": "2026-10-31T18:21:11.000Z",
+      "dateEnd": "2026-10-31T20:50:03.494Z",
+      "dateLabel": "31/10/2026, 18:21:11 - 31/10/2026, 20:50:03",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261031-182111-rasy",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0.7666666666666667,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 46,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20261030-180835-wjp2",
       "title": "Âshlêy",
