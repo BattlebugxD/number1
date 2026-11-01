@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261101-132525-pb7i",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-11-01T13:25:25.000Z",
+      "dateEnd": "2026-11-01T15:11:29.695Z",
+      "dateLabel": "01/11/2026, 13:25:25 - 01/11/2026, 15:11:29",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261101-132525-pb7i",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261031-182111-l36s",
       "title": "Ijmpo",
       "commanders": [
