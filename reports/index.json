@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261101-190151-sbvy",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-11-01T19:01:51.000Z",
+      "dateEnd": "2026-11-01T21:00:34.882Z",
+      "dateLabel": "01/11/2026, 19:01:51 - 01/11/2026, 21:00:34",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261101-190151-sbvy",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261101-132525-pb7i",
       "title": "Präk",
       "commanders": [
