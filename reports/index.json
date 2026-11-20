@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261120-181103-ocnj",
+      "title": "Tybalt Oakenshield",
+      "commanders": [
+        "Tybalt Oakenshield"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-11-20T18:11:03.000Z",
+      "dateEnd": "2026-11-20T18:45:32.039Z",
+      "dateLabel": "20/11/2026, 18:11:03 - 20/11/2026, 18:45:32",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261120-181103-ocnj",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 51,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261106-195331-nczy",
       "title": "Just Mad N Fluffy, Strádùs",
       "commanders": [
