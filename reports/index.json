@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261122-192030-3j2z",
+      "title": "Draíochta Rí",
+      "commanders": [
+        "Draíochta Rí"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-11-22T19:20:30.000Z",
+      "dateEnd": "2026-11-22T21:22:20.943Z",
+      "dateLabel": "22/11/2026, 19:20:30 - 22/11/2026, 21:22:20",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261122-192030-3j2z",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 44,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20261121-185304-o075",
       "title": "Ijustwantedtoblock",
       "commanders": [
