@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261121-185304-o075",
+      "title": "Ijustwantedtoblock",
+      "commanders": [
+        "Ijustwantedtoblock"
+      ],
+      "guild": {
+        "id": "52F65E07-546E-F111-BB23-067697280D5B",
+        "name": "We Are The Problem",
+        "tag": "GG"
+      },
+      "dateStart": "2026-11-21T18:53:04.000Z",
+      "dateEnd": "2026-11-21T20:05:28.738Z",
+      "dateLabel": "21/11/2026, 18:53:04 - 21/11/2026, 20:05:28",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261121-185304-o075",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 23,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 45
+      }
+    },
     {
       "id": "20261120-181103-ocnj",
       "title": "Tybalt Oakenshield",
