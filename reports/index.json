@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261123-211853-lipn",
+      "title": "Phenom I",
+      "commanders": [
+        "Phenom I"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-11-23T21:18:53.000Z",
+      "dateEnd": "2026-11-23T22:00:04.686Z",
+      "dateLabel": "23/11/2026, 21:18:53 - 23/11/2026, 22:00:04",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261123-211853-lipn",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261123-181813-ih9w",
       "title": "Kensmer, Xena Balcevich",
       "commanders": [
