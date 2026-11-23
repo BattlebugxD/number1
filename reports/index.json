@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261123-181813-ih9w",
+      "title": "Kensmer, Xena Balcevich",
+      "commanders": [
+        "Kensmer",
+        "Xena Balcevich"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-11-23T18:18:13.000Z",
+      "dateEnd": "2026-11-23T19:08:23.004Z",
+      "dateLabel": "23/11/2026, 18:18:13 - 23/11/2026, 19:08:23",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261123-181813-ih9w",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20261122-192030-3j2z",
       "title": "Draíochta Rí",
       "commanders": [
