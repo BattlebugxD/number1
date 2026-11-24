@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261124-165937-h3af",
+      "title": "Kensmer",
+      "commanders": [
+        "Kensmer"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-11-24T16:59:37.000Z",
+      "dateEnd": "2026-11-24T17:31:40.210Z",
+      "dateLabel": "24/11/2026, 16:59:37 - 24/11/2026, 17:31:40",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261124-165937-h3af",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261123-211853-lipn",
       "title": "Phenom I",
       "commanders": [
