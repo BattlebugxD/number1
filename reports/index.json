@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261125-210609-269h",
+      "title": "Draíochta Rí",
+      "commanders": [
+        "Draíochta Rí"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-11-25T21:06:09.000Z",
+      "dateEnd": "2026-11-25T21:31:59.278Z",
+      "dateLabel": "25/11/2026, 21:06:09 - 25/11/2026, 21:31:59",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261125-210609-269h",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 73,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261124-165937-h3af",
       "title": "Kensmer",
       "commanders": [
