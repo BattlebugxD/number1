@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261128-134202-stq2",
+      "title": "Tôrîe",
+      "commanders": [
+        "Tôrîe"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-11-28T13:42:02.000Z",
+      "dateEnd": "2026-11-28T14:03:23.031Z",
+      "dateLabel": "28/11/2026, 13:42:02 - 28/11/2026, 14:03:23",
+      "url": "https://BattlebugxD.github.io/number1/?report=20261128-134202-stq2",
+      "publishedBy": "BattlebugxD",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 61,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261127-193843-jdn2",
       "title": "Ijustwantedtoblock",
       "commanders": [
